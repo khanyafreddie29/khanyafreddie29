@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi there, I'm Freddie! 👋
 
-<!--
-**khanyafreddie29/khanyafreddie29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Fullstack Developer | Creative Technologist
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I’m a passionate fullstack developer with a love for both code and creativity. From building sleek web applications to designing stunning visuals, I bridge the gap between functionality and aesthetics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🛠️ Top Skills
+
+- **Frontend:** HTML5, CSS3, JavaScript, Vue.js, React.js  
+- **Backend:** Node.js, Express.js, MySQL  
+- **Design:** Canva, Figma
+
+---
+
+## 🎨 Interests & Hobbies
+
+- Art & Drawing 🖌️
+- Baking 🍰
+- Music 🎶
+- Coding (of course!) 💻
+
+---
+
+## 🤓 Fun Fact
+
+> I can’t ride a bike... but I can build a website about it!
+
+---
+You can add featured projects, social links, or a cool GIF below!
+For example:
+- 🌟 [My Portfolio Website](#)
+- 🐦 [Twitter](#)
+- 💼 [LinkedIn](#)
 -->
+
+Thanks for stopping by! Let’s build something amazing together. 🚀
