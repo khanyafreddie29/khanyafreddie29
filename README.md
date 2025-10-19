@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I’m a passionate fullstack developer with a love
 
 ## 🛠️ Top Skills
 
-- **Frontend:** HTML5, CSS3, JavaScript, Vue.js, React.js  
-- **Backend:** Node.js, Express.js, MySQL  
+- **Frontend:** HTML5, CSS3, JavaScript, Vue.js, React.js,
+- **Backend:** Node.js, Express.js,PHP, MySQL  
 - **Design:** Canva, Figma
 
 ---
@@ -31,8 +31,6 @@ Welcome to my GitHub profile! I’m a passionate fullstack developer with a love
 You can add featured projects, social links, or a cool GIF below!
 For example:
 - 🌟 [My Portfolio Website](#)
-- 🐦 [Twitter](#)
 - 💼 [LinkedIn](#)
--->
 
 Thanks for stopping by! Let’s build something amazing together. 🚀
