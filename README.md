@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I’m a passionate fullstack developer with a love
 
 ---
 ## My Socials
-- 🌟 [My Portfolio Website](#)
-- 💼 [LinkedIn](#)
+- 🌟 [My Portfolio Website](https://kf-portfolio2025.infinityfree.me/)
+- 💼 [LinkedIn](www.linkedin.com/in/khanya-freddie)
 
 Thanks for stopping by! Let’s build something amazing together. 🚀
