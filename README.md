@@ -28,8 +28,7 @@ Welcome to my GitHub profile! I’m a passionate fullstack developer with a love
 > I can’t ride a bike... but I can build a website about it!
 
 ---
-You can add featured projects, social links, or a cool GIF below!
-For example:
+## My Socials
 - 🌟 [My Portfolio Website](#)
 - 💼 [LinkedIn](#)
 
