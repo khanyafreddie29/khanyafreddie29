@@ -10,11 +10,11 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer who bridges t
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=react&border_radius=4.5&mode=weekly)
+![GitHub Streak](https://streak-stats.demolab.com?user=khanyafreddie29&theme=react&border_radius=4.5&mode=weekly)
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&border_radius=4.5&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanyafreddie29&show_icons=true&theme=react&border_radius=4.5&hide_title=true)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&border_radius=4.5&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanyafreddie29&layout=compact&theme=react&border_radius=4.5&langs_count=8)
 
 </div>
 
@@ -88,7 +88,7 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer who bridges t
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kf-portfolio2025.infinityfree.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/khanya-freddie)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khanyafreddie29)
 
 </div>
 
