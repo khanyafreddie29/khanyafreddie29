@@ -96,7 +96,7 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer who bridges t
 
 <div align="center">
   
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=khanyafreddie29&color=blueviolet&style=flat-square)
 
 Thanks for stopping by! Let's build something amazing together. 🚀
 
