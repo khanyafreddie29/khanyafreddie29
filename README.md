@@ -89,7 +89,6 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer who bridges t
 ### **Tools & Platforms**
 - **Git & GitHub** (Version control, Collaboration)
 - **VS Code** (Extensions, Debugging, Productivity)
-- **Figma** (UI/UX Design, Prototyping)
 - **Canva** (Quick graphics, Social media assets)
 
 </details>
@@ -106,9 +105,9 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer who bridges t
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kf-portfolio2025.infinityfree.me/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khanya-freddie)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kf-portfolio2025.infinityfree.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/khanya-freddie)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khanyafreddie29)
 
 </div>
 
