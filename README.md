@@ -70,9 +70,9 @@
 
 <h2 align="center"> 📊 GitHub Stats:</h2>
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=khanyafreddie29&theme=neon&hide_border=false&include_all_commits=true&count_private=false](https://github-readme-stats.vercel.app/api?username=khanyafreddie29&theme=neon&hide_border=false&include_all_commits=true&count_private=false)"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=khanyafreddie29&theme=neon&hide_border=false&include_all_commits=true&count_private=false"/> 
   <br/>
-  <img src="[https://github-readme-stats.vercel.app/api?username=khanyafreddie29&theme=neon&hide_border=false&include_all_commits=true&count_private=false](https://nirzak-streak-stats.vercel.app/?user=khanyafreddie29&theme=neon&hide_border=false](https://nirzak-streak-stats.vercel.app/?user=khanyafreddie29&theme=neon&hide_border=false)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=khanyafreddie29&theme=neon&hide_border=false&include_all_commits=true&count_private=false"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanyafreddie29&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
