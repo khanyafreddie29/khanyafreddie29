@@ -68,12 +68,16 @@
 
 ---
 
-# 📊 GitHub Stats:
+<h2 align="center"> 📊 GitHub Stats:</h2>
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=khanyafreddie29&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=khanyafreddie29&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khanyafreddie29&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<h2 align="center">✍️ Random Dev Quote</h2>
+<div aligh="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
