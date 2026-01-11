@@ -70,12 +70,9 @@
 
 <h2 align="center"> 📊 GitHub Stats:</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanyafreddie29&theme=neon&hide_border=false&include_all_commits=true&count_private=false"/> 
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=khanyafreddie29&theme=neon&hide_border=false&include_all_commits=true&count_private=false"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanyafreddie29&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  <img src="https://streak-stats.demolab.com?user=khanyafreddie29&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
 
 <h2 align="center">✍️ Random Dev Quote</h2>
 <div aligh="center">
