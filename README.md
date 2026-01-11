@@ -9,12 +9,12 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer who bridges t
 ## 📊 GitHub Streaks & Stats
 
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khanyafreddie29&theme=react&border_radius=4.5&mode=weekly&v=2)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanyafreddie29&show_icons=true&theme=react&border_radius=4.5&hide_title=true&v=2)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanyafreddie29&layout=compact&theme=react&border_radius=4.5&langs_count=8&v=3)
+![GitHub Streak](https://streak-stats.demolab.com?user=khanyafreddie29&theme=react&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanyafreddie29&show_icons=true&theme=react&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanyafreddie29&layout=compact&theme=react&hide_border=true&langs_count=8)
 
 </div>
 
