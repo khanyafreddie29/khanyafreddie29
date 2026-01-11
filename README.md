@@ -61,7 +61,6 @@
 <h3>🗄️ Databases</h3>
 <div">
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
 </div>
 
@@ -75,7 +74,6 @@
 </div>
 
 <h2> 📊 GitHub Stats:</h2>
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=khanyafreddie29&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=khanyafreddie29&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khanyafreddie29&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
