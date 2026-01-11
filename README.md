@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer who bridges t
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com?user=khanyafreddie29&theme=react&border_radius=4.5&mode=weekly&v=2)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khanyafreddie29&theme=react&border_radius=4.5&mode=weekly&v=2)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanyafreddie29&show_icons=true&theme=react&border_radius=4.5&hide_title=true&v=2)
   
