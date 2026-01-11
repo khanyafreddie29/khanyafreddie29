@@ -70,14 +70,18 @@
 
 <h2 align="center"> 📊 GitHub Stats:</h2>
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=khanyafreddie29&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=khanyafreddie29&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khanyafreddie29&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <img src="[https://github-readme-stats.vercel.app/api?username=khanyafreddie29&theme=neon&hide_border=false&include_all_commits=true&count_private=false](https://github-readme-stats.vercel.app/api?username=khanyafreddie29&theme=neon&hide_border=false&include_all_commits=true&count_private=false)"/> 
+  <br/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=khanyafreddie29&theme=neon&hide_border=false&include_all_commits=true&count_private=false](https://nirzak-streak-stats.vercel.app/?user=khanyafreddie29&theme=neon&hide_border=false](https://nirzak-streak-stats.vercel.app/?user=khanyafreddie29&theme=neon&hide_border=false)"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanyafreddie29&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
 
 <h2 align="center">✍️ Random Dev Quote</h2>
 <div aligh="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
+---
+[![](https://visitcount.itsvg.in/api?id=khanyafreddie29&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
