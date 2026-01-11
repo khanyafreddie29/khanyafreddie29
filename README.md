@@ -10,7 +10,6 @@
   powerful and beautiful.
 </p>
 
----
 
 <h2 align="center">🌐 Socials</h2>
 
@@ -26,7 +25,6 @@
   </a>
 </div>
 
----
 
 <h2 align="center">🛠 Tech Stack</h2>
 
@@ -47,8 +45,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
 </div>
 
----
-
 <h3 align="center">⚙️ Backend</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
@@ -62,16 +58,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
 </div>
 
----
-
 <h3 align="center">🗄️ Databases</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
 </div>
-
----
 
 <h3 align="center">🧰 Tools</h3>
 <div align="center">
@@ -82,17 +74,12 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
 </div>
 
-
----
-
 <h2 align="center"> 📊 GitHub Stats:</h2>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=khanyafreddie29&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=khanyafreddie29&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khanyafreddie29&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
 
 <h2 align="center">✍️ Random Dev Quote</h2>
 <div aligh="center">
