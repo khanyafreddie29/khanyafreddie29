@@ -42,7 +42,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
 </div>
 
 <h3>⚙️ Backend</h3>
@@ -61,6 +60,9 @@
 <h3>🗄️ Databases</h3>
 <div">
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" /><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+</div>
+<div">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
 </div>
 
 <h3>🧰 Tools</h3>
