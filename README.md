@@ -14,10 +14,10 @@
 <h2>🌐 Socials</h2>
 
 <div>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/khanya-freddie" target="_blank">
+  <a href="www.linkedin.com/in/khanya-freddie" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="25" alt="linkedin logo"  />
   </a>
-  <a href="khanyafreddie2903@gmail.com" target="_blank">
+  <a href="www.khanyafreddie2903@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="25" alt="gmail logo"  />
   </a>
   <a href="https://instagram.com/itsfreddi3" target="_blank">
