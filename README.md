@@ -1,9 +1,17 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Khanya%20Freddie&fontSize=50&fontColor=fff&animation=fadeIn)
+<div align="center">
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Khanya%20Freddie&fontSize=50&fontColor=fff&animation=fadeIn)
+</div>
 
 
 ###
 
-<p align="center">My name is Khanya Freddie and I'm a Software Developer.</p>
+<div align="center">
+
+### Software Developer | Cape Town, South Africa
+
+A passionate developer.
+
+</div>
 
 ###
 
@@ -90,4 +98,6 @@
 </div>
 
 ###
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
+<div align="center">
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
+</div>
