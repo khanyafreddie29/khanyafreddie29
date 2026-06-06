@@ -1,6 +1,5 @@
-<div align="center">
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Khanya%20Freddie&fontSize=50&fontColor=fff&animation=fadeIn)
-</div>
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Khanya%20Freddie&fontSize=50&fontColor=fff&animation=fadeIn)
 
 
 ###
@@ -98,6 +97,4 @@ A passionate developer.
 </div>
 
 ###
-<div align="center">
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
-</div>
